@@ -1,0 +1,8 @@
+{
+  "name": "sm AI",
+  "description": "A powerful multi-modal AI workstation featuring advanced chat, image generation, video creation, and a specialized AI toolkit.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
